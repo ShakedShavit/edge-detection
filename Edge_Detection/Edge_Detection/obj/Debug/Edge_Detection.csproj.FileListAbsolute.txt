@@ -1,0 +1,10 @@
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\obj\Debug\Edge_Detection.csprojAssemblyReference.cache
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\obj\Debug\Edge_Detection.Form1.resources
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\obj\Debug\Edge_Detection.Properties.Resources.resources
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\obj\Debug\Edge_Detection.csproj.GenerateResource.cache
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\obj\Debug\Edge_Detection.csproj.CoreCompileInputs.cache
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\bin\Debug\Edge_Detection.exe.config
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\bin\Debug\Edge_Detection.exe
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\bin\Debug\Edge_Detection.pdb
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\obj\Debug\Edge_Detection.exe
+D:\Shaked\VisualStudioProjects\Edge Detection\Edge_Detection\Edge_Detection\obj\Debug\Edge_Detection.pdb
